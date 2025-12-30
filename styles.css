@@ -20,7 +20,7 @@ h1 {
   box-shadow: 0 0 0px #ffe354;
 }
 
-.h1 > *:hover {
+h1 > *:hover {
   transition: 0.3s ease-in-out;
 }
 
