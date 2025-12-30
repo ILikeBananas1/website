@@ -24,6 +24,7 @@ h1 {
 h1:hover {
   box-shadow: 0 0 36px #ffe354;
   transform: translateY(-4px);
+  background-color: none;
 }
 
 h2 {
